@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src="assets/photo.png">
+<img align="right" width="150" height="150" alt="photo" src="assets/photo.png">
 
 # Oksana Semenova
 
