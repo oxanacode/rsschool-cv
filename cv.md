@@ -27,13 +27,13 @@ function encode(word){
 * Adobe Photoshop, Illustrator
 
 ## Education
-* Rs-school (in progress)
-* [HTML Academy](https://htmlacademy.ru/study)
+* **RS-School** (in progress)
+* **[HTML Academy](https://htmlacademy.ru/study)**
     * HTML & CSS
-* University: 
-    * **Tomsk State University**
+* **University:**
+    * Tomsk State University
         * UX/UI Design
-    * **The Peoples' Friendship University of Russia**
+    * The Peoples' Friendship University of Russia
         * Applied Mathematics and Informatics
 
 ## Languages
