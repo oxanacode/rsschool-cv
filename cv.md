@@ -1,5 +1,6 @@
+<img align="right" width="100" height="100" src="assets/photo.png">
+
 # Oksana Semenova
-<img align="right" width="100" height="100" src="/images/photo.png">
 
 ## Contacts
 * **E-mail:** oxanacode@gmail.com
@@ -34,5 +35,5 @@ function encode(word){
     * Master of Science in Applied Mathematics and Informatics
 
 ## Languages
-**English** - B2
-**Russian** - native speaker
+* **English** - B2
+* **Russian** - native speaker
